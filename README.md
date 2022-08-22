@@ -11,8 +11,7 @@ We are seeking to understand which ResNet configurations are most effective for 
 
 ## Model Comparison
 
-<img src="res/MaxAcc.png" alt="MaxAcc" height="200"/>
-<img src="res/EvalAcc.png" alt="EvalAcc" height="200"/>
+<img src="res/MaxAcc.png" alt="MaxAcc" height="200"/> <img src="res/EvalAcc.png" alt="EvalAcc" height="200"/>
 
 ## Conclusion
 
