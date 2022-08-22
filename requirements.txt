@@ -1,0 +1,9 @@
+notebook
+matplotlib
+numpy
+pandas
+pickle
+gdown
+torch
+torchvision
+torchaudio
