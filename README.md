@@ -7,6 +7,6 @@ We are seeking to understand which ResNet configurations are most effective for 
 
 ## Conclusion
 
-Comparing ResNet models with an adam optimizer 8 epochs and a learning rate of 5.5e-5 for classification of garbage types yields a max model accuracy of 96% for the ResNet101 pretrained model.
+Comparing ResNet models with an adam optimizer 8 epochs and a learning rate of 5.5e-5 for classification of garbage types yields a max model accuracy of 96% for the ResNet101 pretrained model. We should consider retraining the ResNet101 model with more epochs to locate where the accuracy fall off begins.
 
 For reference, a good list of models and accuracies sit in pytorch’s docs: https://pytorch.org/vision/main/models.html
