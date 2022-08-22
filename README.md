@@ -1,4 +1,4 @@
-# Garbage Classification with PyTorch
+# ResNet Comparison for Garbage Image Classification with PyTorch
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebstockreview.net%2Fimages%2Fgarbage-clipart-wastebin-16.png&f=1&nofb=1" alt="Garbage Bins" height="200"/>
 
 ---
