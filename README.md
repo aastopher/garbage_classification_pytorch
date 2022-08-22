@@ -1,9 +1,18 @@
 # Garbage Classification with PyTorch
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebstockreview.net%2Fimages%2Fgarbage-clipart-wastebin-16.png&f=1&nofb=1" alt="Garbage Bins" height="200"/>
 
+---
+
+## Goal
+
 In this notebook we will implement different ResNet’s with the goal of comparing the models to find the 'best' for our classifier.
 
 We are seeking to understand which ResNet configurations are most effective for classifying images of garbage. This type of modeling could be used for automated garbage aggregation systems.
+
+## Model Comparison
+
+<img src="res/MaxAcc.png" alt="MaxAcc" height="200"/>
+<img src="res/EvalAcc.png" alt="EvalAcc" height="200"/>
 
 ## Conclusion
 
