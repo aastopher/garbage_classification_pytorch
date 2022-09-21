@@ -3,6 +3,10 @@
 
 ---
 
+## Data
+
+SOURCE - https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
+
 ## Models
 
 All ResNet models have been trained on a local GPU (MSI GAMING X TRIO GeForce RTX 3070 Ti) then saved as individual pickle files. Each model contains a few custom attributes as follows; name,history,maxAcc,evalAcc. These attributes primarily contain summary data from the last training for each respective model. Running this notebook will download the training data and the trained models for exploration.
